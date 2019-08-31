@@ -1,3 +1,7 @@
+#include <iostream>
+#include <cmath>
+#include <vector>
+using namespace std;
 
 int mediana(vector<int> &lista);
 vector<int> leerConsola();
